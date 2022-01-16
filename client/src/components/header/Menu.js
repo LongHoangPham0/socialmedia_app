@@ -10,7 +10,8 @@ const Menu = () => {
     const navLinks = [
         { label: 'Home', icon: 'home', path: '/'},
         { label: 'Message', icon: 'near_me', path: '/message'},
-        { label: 'Discover', icon: 'explore', path: '/discover'}
+        { label: 'Discover', icon: 'explore', path: '/discover'},
+        { label: 'ImageClassification', icon: 'computer', path: '/imageClassification'}
     ]
 
     const { auth, theme, notify } = useSelector(state => state)

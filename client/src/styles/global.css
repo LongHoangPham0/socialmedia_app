@@ -78,6 +78,8 @@ img {
 /* -------- Call Modal---------- */
 @import url("./call_modal.css");
 
+/* -------- Image Classification---------- */
+@import url("./image_classification.css");
 
 
 /* --------- Responsive ------ */
